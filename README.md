@@ -1,4 +1,4 @@
-# Challengue-Banza
+# Challenge-Banza
 Repositorio backend para un sistema de control de movimientos monetarios.
 
 ### Requerimientos recomendados:
